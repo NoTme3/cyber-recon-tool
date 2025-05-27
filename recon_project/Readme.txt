@@ -30,4 +30,4 @@ A simple interactive tool for cybersecurity reconnaissance tasks including:
 1. Clone or download the repository  
 2. Install dependencies:  
    ```bash
-   pip install -r requirements.txt
+   pip install requests
